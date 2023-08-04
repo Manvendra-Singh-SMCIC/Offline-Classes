@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000931996982",
+    "project_id": "offline-classes-amacle",
+    "storage_bucket": "offline-classes-amacle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000931996982:android:99d90a41137a41db0d2f97",
+        "android_client_info": {
+          "package_name": "com.example.offline_classes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000931996982-7v139aje7m9v8kv7dosrsghc0pr5up1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB64rgNISQYh1EzJHcN1T-SRz68-tDCt0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000931996982-7v139aje7m9v8kv7dosrsghc0pr5up1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
